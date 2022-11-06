@@ -4,28 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ebaa1590-3787-49dc-80af-e5d7deed601d" name="Changes" comment="nova versao">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cadastrocliente/cadrasto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo5/Carro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo5/Garagem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo5/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo5/TestePessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo6/Aluno.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo6/Calculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo6/UsaCalculadora.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo7/Cadastro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo7/Calculos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/capitulo8/Arrays_Lista.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/capitulo5/funcionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/capitulo5/testefuncionario.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/capitulo5/testepessoa.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/carro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/garagem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/carro/novagaragem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/copadomundo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Capitulo1/copadomundo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/laboratorio/laboratorio.java" beforeDir="false" />
+    <list default="true" id="ebaa1590-3787-49dc-80af-e5d7deed601d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/helloword.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/capitulo4/capitulo4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/capitulo4/licao89.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/laboratorio/laboratorio.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +23,6 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -47,38 +34,31 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2GvDBl2l8JakiVj6TMEc1exkb8D" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="capitulo4" />
-    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
       <recent name="laboratorio.laboratorio" />
       <recent name="laboratorio" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.copadomundo">
-    <configuration name="Calculadora" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="capitulo6.Calculadora" />
+  <component name="RunManager" selected="Application.licao89">
+    <configuration name="capitulo4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="capitulo4.capitulo4" />
       <module name="helloword" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="capitulo6.*" />
+          <option name="PATTERN" value="capitulo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Garagem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="capitulo5.carro.Garagem" />
+    <configuration name="laboratorio" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="laboratorio.laboratorio.laboratorio" />
       <module name="helloword" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="capitulo5.carro.*" />
+          <option name="PATTERN" value="laboratorio.laboratorio.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,32 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Main" />
-      <module name="helloword" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestePessoa" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="capitulo5.carro.TestePessoa" />
+    <configuration name="licao89" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="capitulo4.licao89" />
       <module name="helloword" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="capitulo5.carro.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="copadomundo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Capitulo1.copadomundo" />
-      <module name="helloword" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Capitulo1.*" />
+          <option name="PATTERN" value="capitulo4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,11 +94,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TestePessoa" />
-        <item itemvalue="Application.Garagem" />
-        <item itemvalue="Application.copadomundo" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Calculadora" />
+        <item itemvalue="Application.licao89" />
+        <item itemvalue="Application.capitulo4" />
+        <item itemvalue="Application.laboratorio" />
       </list>
     </recent_temporary>
   </component>
@@ -151,21 +109,6 @@
       <option name="presentableId" value="Default" />
       <updated>1667260042943</updated>
     </task>
-    <task id="LOCAL-00001" summary="nova versao">
-      <created>1667354573316</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1667354573316</updated>
-    </task>
-    <task id="LOCAL-00002" summary="nova versao">
-      <created>1667527676670</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1667527676670</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,9 +121,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="nova versao" />
-    <option name="LAST_COMMIT_MESSAGE" value="nova versao" />
   </component>
 </project>
